@@ -1,1 +1,1 @@
-# Free-Azure-sandbox-for-MS-learning
+# Free Azure sandbox for Microsoft learning
