@@ -18,6 +18,12 @@ AZ-104: Microsoft Azure Administrator
 
 [Exercise - Create an Azure website using the CLI](https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/5-exercise-create-website-using-the-cli?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az104-admin-prerequisites)
 
+**[Deploy Azure infrastructure by using JSON ARM templates](https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/)**
+
+[Exercise - Create and deploy an Azure Resource Manager template](https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/3-exercise-create-and-deploy-template?pivots=powershell)
+
+[Exercise - Add parameters and outputs to your Azure Resource Manager template](https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/5-exercise-parameters-output?pivots=powershell)
+
 Useful links:
 --
 [AZ-500: Microsoft Azure Security Technologies](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/) 
