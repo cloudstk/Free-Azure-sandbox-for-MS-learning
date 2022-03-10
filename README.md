@@ -24,8 +24,11 @@ AZ-104: Microsoft Azure Administrator
 
 [Exercise - Add parameters and outputs to your Azure Resource Manager template](https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/5-exercise-parameters-output?pivots=powershell)
 
+
+[SC-300:IDENTITY AND ACCESS ADMINISTRATOR](https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/) 
+--
 Useful links:
 --
 [AZ-500: Microsoft Azure Security Technologies](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/) 
 
-[SC-300:IDENTITY AND ACCESS ADMINISTRATOR](https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/) 
+
