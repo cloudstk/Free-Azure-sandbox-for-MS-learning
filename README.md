@@ -26,7 +26,6 @@ AZ-104: Microsoft Azure Administrator
 
 
 [SC-300:IDENTITY AND ACCESS ADMINISTRATOR](https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/) 
---
 
 Useful links:
 
