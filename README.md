@@ -33,4 +33,4 @@ Useful links:
 
 [AZ-500: Microsoft Azure Security Technologies](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/) 
 
-
+[AZ-500 study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70) 
