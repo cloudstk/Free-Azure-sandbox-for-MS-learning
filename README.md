@@ -28,6 +28,7 @@ AZ-104: Microsoft Azure Administrator
 [SC-300:IDENTITY AND ACCESS ADMINISTRATOR](https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/) 
 
 Useful links:
+--
 
 [SC-100:Microsoft Certified: Cybersecurity Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100)
 
