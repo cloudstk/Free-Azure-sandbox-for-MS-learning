@@ -35,3 +35,6 @@ Useful links:
 [AZ-500: Microsoft Azure Security Technologies](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/) 
 
 [AZ-500 study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70) 
+[SC-900 study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81) 
+[SC-900 free sample questions](https://docs.microsoft.com/en-us/certifications/resources/sc-900-sample-questions?azure-portal=true) 
+
