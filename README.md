@@ -4,6 +4,11 @@ As we all know Microsoft Learn sandbox is a free environment that you can use to
 
 Here are the learning resources for Azure:
 --
+Microsoft Security
+--
+ 
+**[Microsoft 365 developer sandbox](https://aka.ms/M365DevProgram/)**
+
 AZ-104: Microsoft Azure Administrator 
 --
 **[Automate Azure tasks using scripts with PowerShell](https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/)**
