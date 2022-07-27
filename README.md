@@ -7,7 +7,11 @@ Here are the learning resources for Azure:
 Microsoft Security
 --
  
-**[Microsoft 365 developer sandbox](https://aka.ms/M365DevProgram/)**
+[Microsoft 365 developer sandbox](https://aka.ms/M365DevProgram/)
+
+[SC-900 study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81) 
+
+[SC-900 free sample questions](https://docs.microsoft.com/en-us/certifications/resources/sc-900-sample-questions?azure-portal=true) 
 
 AZ-104: Microsoft Azure Administrator 
 --
@@ -41,7 +45,5 @@ Useful links:
 
 [AZ-500 study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70) 
 
-[SC-900 study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81) 
 
-[SC-900 free sample questions](https://docs.microsoft.com/en-us/certifications/resources/sc-900-sample-questions?azure-portal=true) 
 
