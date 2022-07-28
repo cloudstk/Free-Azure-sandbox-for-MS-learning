@@ -14,7 +14,10 @@ Microsoft Security
 [SC-900 free sample questions](https://docs.microsoft.com/en-us/certifications/resources/sc-900-sample-questions?azure-portal=true) 
 
 [Log Analytics demo environment](https://portal.loganalytics.io/demo) 
- 
+
+Azure AD B2C
+--
+[Microsoft Woodgrove Groceries demo site](https://woodgrovedemo.com/configuration) 
  
 AZ-104: Microsoft Azure Administrator 
 --
