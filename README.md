@@ -13,6 +13,9 @@ Microsoft Security
 
 [SC-900 free sample questions](https://docs.microsoft.com/en-us/certifications/resources/sc-900-sample-questions?azure-portal=true) 
 
+[Log Analytics demo environment](https://portal.loganalytics.io/demo) 
+ 
+ 
 AZ-104: Microsoft Azure Administrator 
 --
 **[Automate Azure tasks using scripts with PowerShell](https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/)**
