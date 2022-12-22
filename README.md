@@ -47,6 +47,8 @@ Useful links:
 
 [SC-100:Microsoft Certified: Cybersecurity Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100)
 
+[SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/certifications/exams/sc-200)
+
 [AZ-500: Microsoft Azure Security Technologies](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/) 
 
 [AZ-500 study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70) 
