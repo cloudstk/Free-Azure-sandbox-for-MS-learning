@@ -45,7 +45,9 @@ AZ-104: Microsoft Azure Administrator
 Useful links:
 --
 
-[SC-100:Microsoft Certified: Cybersecurity Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100)
+[SC-100: Microsoft Certified: Cybersecurity Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100)
+
+[Prerequisites for this exam: SC-100 - Microsoft Certified: Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/)
 
 [SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/certifications/exams/sc-200)
 
