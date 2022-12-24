@@ -49,7 +49,7 @@ Useful links:
 
 [SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/certifications/exams/sc-200)
 
-[Exam SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-us/certifications/exams/sc-300)
+[SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-us/certifications/exams/sc-300)
 
 [AZ-500: Microsoft Azure Security Technologies](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/) 
 
