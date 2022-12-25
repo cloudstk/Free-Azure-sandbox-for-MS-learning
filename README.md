@@ -49,6 +49,8 @@ Useful links:
 
 [Prerequisites for this exam: SC-100 - Microsoft Certified: Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/)
 
+[This repository contains case studies for the SC-100](https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect)
+
 [SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/certifications/exams/sc-200)
 
 [SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-us/certifications/exams/sc-300)
