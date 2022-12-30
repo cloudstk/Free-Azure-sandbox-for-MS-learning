@@ -14,6 +14,8 @@ Microsoft Security
 
 [SC-900 free sample questions](https://docs.microsoft.com/en-us/certifications/resources/sc-900-sample-questions?azure-portal=true) 
 
+[Azure Skills Navigator Guides](https://learn.microsoft.com/en-us/users/lannateh-3810/collections/mjdcwo2gzmz43?wt.mc_id=collectionslocalization_blogpost_blog_wwl)
+
 [Log Analytics demo environment](https://portal.loganalytics.io/demo) 
 
 Azure AD B2C
