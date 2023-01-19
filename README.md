@@ -59,6 +59,8 @@ Useful links:
 
 [Microsoft Security Best Practices](https://learn.microsoft.com/en-us/training/modules/recommend-ransomware-strategy-by-using-microsoft-security-best-practices/)
 
+[Cloud Adoption Framework (CAF)](https://learn.microsoft.com/en-us/training/modules/recommend-secure-methodology-using-cloud-adoption-framework-caf/)
+
 [SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/certifications/exams/sc-200)
 
 [SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-us/certifications/exams/sc-300)
