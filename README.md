@@ -61,6 +61,8 @@ Useful links:
 
 [Cloud Adoption Framework (CAF)](https://learn.microsoft.com/en-us/training/modules/recommend-secure-methodology-using-cloud-adoption-framework-caf/)
 
+[Recommend best practices for Zero Trust security](https://learn.microsoft.com/en-us/training/modules/use-microsoft-cybersecurity-reference-architecture-azure-security-benchmarks/4-recommend-for-zero-trust-security?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-100-recommend-security-best-practices)
+
 [SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/certifications/exams/sc-200)
 
 [SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-us/certifications/exams/sc-300)
