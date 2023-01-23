@@ -1,5 +1,5 @@
 Learn Azure for Free using Microsoft Learn sandbox
-==
+--
 
 
 As we all know Microsoft Learn sandbox is a free environment that you can use to explore Azure through Microsoft Learn content. The best part here is that, you don’t need an Azure account to use a sandbox. All you need is a Microsoft account to sign in with. If you don't have one, you can create on for free.
