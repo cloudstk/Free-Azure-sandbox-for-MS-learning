@@ -46,6 +46,12 @@ AZ-104: Microsoft Azure Administrator
 
 [SC-300:IDENTITY AND ACCESS ADMINISTRATOR](https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/) 
 
+
+Explore Free Practice Assessments on Microsoft Learn
+----
+[Free Practice Assessments for Microsoft Certifications, learn more](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications?wt.mc_id=practiceassessmentslaunch_blog_blog_wwl_xcsa)
+
+
 Useful links:
 --
 
@@ -70,6 +76,7 @@ Useful links:
 [AZ-500: Microsoft Azure Security Technologies](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/) 
 
 [AZ-500 study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70) 
+
 
 
 
